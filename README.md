@@ -5,7 +5,7 @@ An end-to-end machine learning project predicting customer churn using the IBM T
 ---
 
 ## 📁 Repository Structure & Dataset
-- 💾 **Dataset:** [Download Telco Customer Churn Dataset / Notebook Link](https://colab.research.google.com/drive/1wNDdXggzccv_GpMSFmw1oXD8sCD--mZz)
+- 💾 **Dataset:** [Download Telco Customer Churn Dataset / Notebook Link](https://drive.google.com/drive/folders/1s7W5im_In9kY-LYrG0jypJ2TIJ3M0z1f?usp=sharing)
 - 📓 `Customer_Churn_Prediction.ipynb` — Main end-to-end ML training and evaluation notebook
 - 📦 `telco_churn_pipeline.pkl` — Exported production model pipeline (`ColumnTransformer` + `XGBoost`)
 - 📝 `README.md` — Project documentation and performance benchmarking
